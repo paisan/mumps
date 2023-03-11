@@ -1,6 +1,6 @@
 # mumps
 
-Reference MUMPS [https://en.wikipedia.org/wiki/MUMPS]
+Reference [MUMPS] (https://en.wikipedia.org/wiki/MUMPS)
 
                         MUMPS Version 1.71
 
